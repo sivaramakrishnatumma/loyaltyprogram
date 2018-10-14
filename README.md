@@ -11,5 +11,9 @@ npm install
 
 After that, you should build either android or ios 
 ```
-ionic build android
+ionic cordova build android
+```
+or
+```
+ionic cordova build ios
 ```
